@@ -1,0 +1,9 @@
+{
+  "name":"News Reader",
+  "short_name":"MOST News",
+  "description": "MOST Digital News",
+  "start_url": "/index.html",
+  "theme_color":"#008FD7",
+  "background_color":"#008FD7",
+  "display":"standalone"
+}

@@ -1,0 +1,4 @@
+curl "https://fcm.googleapis.com/fcm/send/etJ2Dq7EK_s:APA91bHJ-7Rbuu35p9H8apgTIUKwECMHnGu4jI8KueKDHmGxmFcp3woBkxjKNmu0l3KaQbVl2_TjowClTHAViuCjgohOVpbULkMTAGpcBcezl8-RCEXwV08dV_Emn0U_yQYFBWEqSCHN" --request POST --header "TTL: 60" --header "Content-Length: 0" \ --header "Authorization: key=AAAAK5agDdo:APA91bF7FMhH0o2bfYLAhgUJIxVQnHiSTMEoSjjWIMU73QD3ALzOXPXE-oKQj7hBTaMgXJk0TqD7iqguUTlUnwdYRKdnNHcERN-g1Fcin6RVTo4k1FX1vYR2UHkOxiKdOJ3s5r6--vtt"
+
+
+curl "https://fcm.googleapis.com/fcm/send/dIrZY6SIWOA:APA91bFc7gtJ1-SNBV10DO5Z2Q2gJGh-2c_DGjTpWixXt6RfR29X6AaUW771RFGK2oVQnEJZAyabnWAx2H5ZFqf1cDSKt0K69PjQAC5fjN9RzKQp5kp8pl78tp7OpTi1D9P1jItCEZWY" --request POST --header "TTL: 60" --header "Content-Length: 0" --header "Authorization: key=AAAAK5agDdo:APA91bF7FMhH0o2bfYLAhgUJIxVQnHiSTMEoSjjWIMU73QD3ALzOXPXE-oKQj7hBTaMgXJk0TqD7iqguUTlUnwdYRKdnNHcERN-g1Fcin6RVTo4k1FX1vYR2UHkOxiKdOJ3s5r6--vtt"
