@@ -1,35 +1,11 @@
-html, body {
-   margin: 20px;
-   padding: 0;
-}
-
-.container {
-   display: flex;
-   flex-wrap: wrap;
-}
-
-.mypic
+.team-badge
 {
-  margin-top: 20px;
+  height: 50px;
 }
 
-.cite
+.team-logo
 {
-  font-style: italic;
-  margin-top: 20px;
-}
-
-blockquote
-{
-  border-left: 3px solid #ded4da;
-  padding: 20px;
-}
-
-@media screen and (min-width: 800px)
-{
-   .container {
-       width: 800px;
-       margin-left: auto;
-       margin-right: auto;
-   }
+  height: 180px;
+  padding: 15px;
+  argin: 0 auto;
 }
